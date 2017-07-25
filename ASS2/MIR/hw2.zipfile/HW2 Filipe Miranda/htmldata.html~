@@ -1,0 +1,428 @@
+
+
+
+
+<!doctype html>
+<html lang="nl">
+	<head>
+		<base href="http://liacs.leidenuniv.nl" />
+		<meta charset="utf-8" />
+		<title>Introductie - LIACS - Leiden Institute of Advanced Computer Science</title>
+		<meta name="Keywords" content= "LIACS, informatica, Leiden, computer, sciene, informatics, klikspaan, universiteit, rijksuniversiteit, leiden, studeren, studie, student, studenten, onderwijs, opleidingen, opleiding, onderzoek, RUL, UL, leidenuniv, bachelors, masters, university, study, undergraduate, graduate, student, students, education, colleges, research, science, WO, training" />
+		<meta name="Description" content="Het LIACS is het informatica-instituut van de Universiteit Leiden en biedt diverse onderwijsprogramma&#39;s (bachelor en master)." />
+		
+		<meta name="google-site-verification" content="L722mIjYMKRVO6J0YiEsKYwZbSQcndgFgkSOl3cDqDg" />		
+		<script src="liacs/javascript/functions.js" type="text/javascript"></script>
+		<link type="text/html" rel="alternate" hreflang="en" href="http://liacs.leidenuniv.nl/home-en" />
+		<link type="text/html" rel="alternate" hreflang="nl" href="http://liacs.leidenuniv.nl" />		
+		<link rel="stylesheet" type="text/css" href="/liacs/css/menu.css?v=20140908" />
+		<link rel="stylesheet" type="text/css" href="/liacs/css/layout.css?v=20140908" />
+		<link rel="stylesheet" type="text/css" href="/liacs/css/typography.css?v=20140908" />
+		<link rel="canonical" href="/" />
+		<!--[if lte IE 7]>
+			<link rel="stylesheet" type="text/css" href="/liacs/css/layout-ie7.css" />
+		<![endif]-->
+	</head>
+	
+	<body>
+		<div id="bigwrapper">
+		
+			<div id="currentLocation">
+				<a href="/">LIACS</a> 
+				
+				 <img src="liacs/images/pijl.gif" alt="&gt;" /> Home
+			</div>		
+			
+			<div id="topnav"> 
+			 
+			  
+				<div class="English (US)">
+					<a href="/en/" title="Introduction" hreflang="en-US">English</a>
+				</div>
+			  
+			 
+			</div>
+			
+			<div id="header">
+				<form id="searchform" action="/search-nl-NL/SearchForm" method="get" enctype="application/x-www-form-urlencoded">
+					<input type="text" class="text nolabel" id="search-input" name="Search" value="" />
+					<input class="action" id="search-submit" type="submit" name="action_results" value="Search" title="Search" />
+				</form>
+				<a href="http://www.leidenuniv.nl" target="_blank"><img src="liacs/images/leidenuniv.gif" alt="Universiteit Leiden" /></a>
+				<div id="headertext">
+					<h1><a href="/">LIACS</a></h1>
+					<h2><a href="/">Leiden Institute of Advanced Computer Science</a></h2>
+				</div>
+			</div> 
+			
+			<div id="widescreen">
+				<img src="liacs/images/headers/2.jpg" alt="headerimg" />
+			</div> 
+			
+			<div id="nav">
+				<div id="menu">
+					<ul class="level1">
+						
+							<li class="level1-li current"><a class="level1-a" href="/">Home</a></li>
+						
+							
+								<li class="level1-li link"><a class="level1-a fly" href="/edu/">Voor studenten<!--[if gte IE 7]><!--></a><!--<![endif]-->
+								<!--[if lte IE 6]><table><tr><td><![endif]-->
+								<ul class="level2">
+								
+									
+										<li class="link"><a class="fly" href="/edu/bachelor/">Bachelor Informatica<!--[if gte IE 7]><!--></a><!--<![endif]-->
+										<!--[if lte IE 6]><table><tr><td><![endif]-->
+										<ul class="level3">
+										
+											
+												<li class="link"><a href="/edu/bachelor/opbouw-studie/">Opbouw Studie</a></li>
+											
+												<li class="link"><a href="/edu/bachelor/studieadvies/">Studieadvies</a></li>
+											
+												<li class="link"><a href="/edu/bachelor/roosters/">Roosters</a></li>
+											
+												<li class="link"><a href="http://studiegids.leidenuniv.nl/studies/show/informatica">Vakken (e-Studiegids)</a></li>
+											
+												<li class="link"><a href="https://studiegids.leidenuniv.nl/studies/show/2648/informatica-dubbele-bachelor-Informatica-Wiskunde">Vakken Dubbele Bachelor Inf. &amp; Wisk. (e-Studiegids)</a></li>
+											
+												<li class="link"><a href="/edu/bachelor/bachelorscripties/">Bachelorscripties</a></li>
+											
+												<li class="link"><a href="/edu/bachelor/aanvragen-propedeuse-en-bachelor/">Aanvragen Propedeuse en Bachelor </a></li>
+										</ul>
+										<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+										</li>
+										
+									
+								
+									
+										<li class="link"><a class="fly" href="/edu/bachelorie/">Bachelor Informatica &amp; Economie<!--[if gte IE 7]><!--></a><!--<![endif]-->
+										<!--[if lte IE 6]><table><tr><td><![endif]-->
+										<ul class="level3">
+										
+											
+												<li class="link"><a href="/edu/bachelorie/opbouw-studie/">Opbouw studie</a></li>
+											
+												<li class="link"><a href="http://studiegids.leidenuniv.nl/studies/show/informatica_informatica_en_economie">Vakken (e-Studiegids)</a></li>
+											
+												<li class="link"><a href="/edu/bachelorie/studieadvies/">Studieadvies</a></li>
+											
+												
+													<li class="link"><a class="fly" href="/edu/bachelorie/roosters/">Roosters<!--[if gte IE 7]><!--></a><!--<![endif]-->
+													<!--[if lte IE 6]><table><tr><td><![endif]-->
+													<ul class="level4">
+													<li class="link"><a href="/edu/bachelorie/roosters/rooster-i-and-e-jaar-1/">Rooster I&amp;E Jaar 1</a></li><li class="link"><a href="/edu/bachelorie/roosters/rooster-i-and-e-jaar-2/">Rooster I&amp;E Jaar 2</a></li><li class="link"><a href="/edu/bachelorie/roosters/rooster-i-and-e-jaar-3/">Rooster I&amp;E Jaar 3</a></li><li class="link"><a href="/edu/bachelorie/roosters/roosters-i-and-e-oude-stijl/">Roosters I&amp;E oude stijl</a></li>
+													</ul>
+													<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+													</li>
+												
+											
+												<li class="link"><a href="/edu/bachelorie/bachelorscripties/">Bachelorscripties</a></li>
+											
+												<li class="link"><a href="/edu/bachelorie/aanvragen-propedeuse-en-bachelor/">Aanvragen propedeuse en bachelor</a></li>
+										</ul>
+										<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+										</li>
+										
+									
+								
+									
+										<li class="link"><a class="fly" href="/edu/bachelorib/">Bachelor Informatica &amp; Biologie<!--[if gte IE 7]><!--></a><!--<![endif]-->
+										<!--[if lte IE 6]><table><tr><td><![endif]-->
+										<ul class="level3">
+										
+											
+												<li class="link"><a href="/edu/bachelorib/opbouw-studie/">Opbouw studie</a></li>
+											
+												<li class="link"><a href="https://studiegids.leidenuniv.nl/studies/show/4191/informatica-en-biologie">Vakken (E-gids)</a></li>
+											
+												<li class="link"><a href="/edu/bachelorib/studieadvies/">Studieadvies</a></li>
+											
+												<li class="link"><a href="/edu/bachelorib/roosters/">Roosters</a></li>
+											
+												<li class="link"><a href="/edu/bachelorib/aanvragen-propedeuse/">Aanvragen propedeuse</a></li>
+										</ul>
+										<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+										</li>
+										
+									
+								
+									<li class="link"><a href="https://studiegids.leidenuniv.nl/en/studies/show/3229/Data-Science">Minor Data Science</a></li>
+								
+									
+										<li class="link"><a class="fly" href="/edu/master/introduction/">Master Computer Science<!--[if gte IE 7]><!--></a><!--<![endif]-->
+										<!--[if lte IE 6]><table><tr><td><![endif]-->
+										<ul class="level3">
+										
+											
+												<li class="link"><a href="/edu/master/introduction/">Introductie</a></li>
+											
+												<li class="link"><a href="/edu/master/programma/">Programma</a></li>
+											
+												<li class="link"><a href="/edu/master/curriculum/">Curriculum</a></li>
+											
+												<li class="link"><a href="/edu/master/roosters/">Roosters</a></li>
+											
+												<li class="link"><a href="http://studiegids.leidenuniv.nl/studies/show/computer_science">Vakken (e-Studiegids)</a></li>
+											
+												<li class="link"><a href="/edu/master/studieadviseurs/">Studieadviseurs</a></li>
+											
+												<li class="link"><a href="/edu/master/masterprojecten/">Masterprojecten</a></li>
+											
+												<li class="link"><a href="/edu/master/masterscripties/">Masterscripties</a></li>
+											
+												<li class="link"><a href="/edu/master/afstuderen/">Afstuderen</a></li>
+										</ul>
+										<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+										</li>
+										
+									
+								
+									
+										<li class="link"><a class="fly" href="/edu/iib/introductie/">Master ICT in Business<!--[if gte IE 7]><!--></a><!--<![endif]-->
+										<!--[if lte IE 6]><table><tr><td><![endif]-->
+										<ul class="level3">
+										
+											
+												<li class="link"><a href="/edu/iib/introductie/">Introductie</a></li>
+											
+												<li class="link"><a href="/edu/iib/programma/">Programma</a></li>
+											
+												
+													<li class="link"><a class="fly" href="/edu/iib/roosters/">Roosters<!--[if gte IE 7]><!--></a><!--<![endif]-->
+													<!--[if lte IE 6]><table><tr><td><![endif]-->
+													<ul class="level4">
+													<li class="link"><a href="/edu/iib/roosters/schedule-1-september-2015-starters-nl-NL/">Schedule 1 September 2015 starters</a></li><li class="link"><a href="/edu/iib/roosters/schedule-1-february-2016-starters-nl-NL/">Schedule 1 February 2016 starters</a></li><li class="link"><a href="/edu/iib/roosters/schedule-1-february-2015-starters-nl-NL/">Schedule 1 February 2015 starters</a></li><li class="link"><a href="/edu/iib/roosters/schedule-i-and-e-background/">Schedule I&amp;E background</a></li><li class="link"><a href="/edu/iib/roosters/schedule-second-year-nl-NL/">Schedule second year</a></li>
+													</ul>
+													<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+													</li>
+												
+											
+												<li class="link"><a href="/edu/iib/docenten/">Docenten</a></li>
+											
+												<li class="link"><a href="/edu/iib/studie-adviseurs/">Studie-adviseurs</a></li>
+											
+												<li class="link"><a href="/edu/iib/afstudeerprojecten/">Afstudeerprojecten</a></li>
+											
+												<li class="link"><a href="/edu/iib/aanmelden-afstuderen/">Aanmelden afstuderen</a></li>
+											
+												<li class="link"><a href="/edu/iib/masterscripties/">Masterscripties</a></li>
+											
+												<li class="link"><a href="/edu/iib/curriculum-nl-NL-2/">Curriculum</a></li>
+										</ul>
+										<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+										</li>
+										
+									
+								
+									<li class="link"><a href="http://mediatechnology.leiden.edu/">Master Media Technology</a></li>
+								
+									<li class="link"><a href="/edu/documenten/">Documenten</a></li>
+								
+									<li class="link"><a href="/organisatie/commissies/opleidingscommissies/">Opleidingscommissie</a></li>
+								
+									<li class="link"><a href="/edu/wegwijzer-faciliteiten/">Wegwijzer &amp; Faciliteiten</a></li>
+								
+									<li class="link"><a href="/edu/studievereniging-de-leidsche-flesch/">Studievereniging De Leidsche Flesch</a></li>
+								
+								</ul>
+								<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+								</li>								
+							
+						
+							
+								<li class="level1-li link"><a class="level1-a fly" href="/organisatie/">Voor medewerkers<!--[if gte IE 7]><!--></a><!--<![endif]-->
+								<!--[if lte IE 6]><table><tr><td><![endif]-->
+								<ul class="level2">
+								
+									<li class="link"><a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica/medewerkers">Lijst van medewerkers</a></li>
+								
+									<li class="link"><a href="/organisatie/faciliteiten-voor-medewerkers/">Faciliteiten voor medewerkers</a></li>
+								
+									<li class="link"><a href="/it/">ICT services</a></li>
+								
+									
+										<li class="link"><a class="fly" href="/organisatie/commissies/">Commissies<!--[if gte IE 7]><!--></a><!--<![endif]-->
+										<!--[if lte IE 6]><table><tr><td><![endif]-->
+										<ul class="level3">
+										
+											
+												<li class="link"><a href="/organisatie/commissies/computercommissie/">Computercommissie</a></li>
+											
+												<li class="link"><a href="/organisatie/commissies/curriculumcommissie/">Curriculumcommissie</a></li>
+											
+												<li class="link"><a href="/organisatie/commissies/examencommissie/">Examencommissie</a></li>
+											
+												<li class="link"><a href="/organisatie/commissies/opleidingscommissies/">Opleidingscommissies</a></li>
+										</ul>
+										<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+										</li>
+										
+									
+								
+									
+										<li class="link"><a class="fly" href="/organisatie/ir/over/">Instituutsraad<!--[if gte IE 7]><!--></a><!--<![endif]-->
+										<!--[if lte IE 6]><table><tr><td><![endif]-->
+										<ul class="level3">
+										
+											
+												<li class="link"><a href="/organisatie/ir/over/">Over de IR</a></li>
+											
+												<li class="link"><a href="/organisatie/ir/leden/">Leden</a></li>
+											
+												<li class="link"><a href="/organisatie/ir/agenda-notulen/">Agenda &amp; Notulen</a></li>
+										</ul>
+										<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+										</li>
+										
+									
+								
+								</ul>
+								<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+								</li>								
+							
+						
+							<li class="level1-li link"><a class="level1-a" href="/contact/">Contact</a></li>
+						
+					</ul>
+				</div>
+	
+			</div> 	
+			
+			<div id="wrapper">
+				<div id="sidebar">
+					
+						
+					
+					
+					
+						
+														
+												
+					
+					
+                              
+                           	
+					
+						<h3>Direct naar:</h3>
+<ul id="direct-to"><li><a href="http://info.liacs.nl/liacs" target="_blank">LIACS Informatiescherm</a></li>
+<li><a href="https://webmail.campus.leidenuniv.nl" target="_blank">Webmail (staff)</a></li>
+<li><a href="https://webmail.leidenuniv.nl/" target="_blank">uMail (students)</a></li>
+<li><a href="http://liacs.leidenuniv.nl/ict">ICT FAQ</a></li>
+<li>  </li>
+<li><a href="http://blackboard.leidenuniv.nl/" target="_blank">Blackboard</a></li>
+<li><a href="https://usis.leidenuniv.nl/" target="_blank">uSis</a></li>
+<li><a href="http://studiegids.leidenuniv.nl/" target="_blank"><em>e</em>-Studiegids</a></li>
+<li><a href="http://www.bibliotheek.leidenuniv.nl/" target="_blank">Bibliotheken</a></li>
+<li><a href="http://www.issc.leidenuniv.nl/" target="_blank">ISSC Helpdesk</a></li>
+<li><a href="https://sapepp.leidenuniv.nl/irj/portal/" target="_blank">SAP (medewerkers)</a></li>
+<li>  </li>
+<li><a href="http://www.leidenuniv.nl/" target="_blank">Universiteit Leiden</a></li>
+<li><a href="http://lcds.science.leidenuniv.nl/lcds" target="_blank">Leiden Centre of Data Science</a></li>
+<li><a href="http://science.leidenuniv.nl/" target="_blank">Faculteit der Wiskunde &amp; Natuurwetenschappen</a></li>
+</ul><p><br/><br/><br/><br/>  <br/></p>
+						
+					
+				</div>
+				
+					<div id="middlebar">
+						<h4>Leer ons kennen</h4>
+<p><a href="http://leeronskennen.leidenuniv.nl/joost-kok/?utm_source=liacs" target="_blank"><img class="left" src="assets/Uploads/joostkok.jpg" width="175" height="87" alt="" title=""/></a></p>
+<h4>Studiekiezers</h4>
+<ul><li><a href="http://www.studereninleiden.nl/studies/info/informatica/" target="_blank">Bachelor Informatica</a></li>
+<li><a href="http://www.studereninleiden.nl/studies/info/informatica-economie/" target="_blank">Informatica &amp; Economie</a></li>
+<li><a href="http://www.studereninleiden.nl/studies/info/informatica-biologie/" target="_blank">Informatica &amp; Biologie</a></li>
+<li><a href="http://www.studereninleiden.nl/universiteit/dubbele-bachelor/" target="_blank">Dubbele bachelors</a></li>
+<li><a href="http://www.mastersinleiden.nl/programmes/computer-science-and-advanced-data-analytics/en/introduction" target="_blank"> </a></li>
+<li><a href="http://www.mastersinleiden.nl/programmes/computer-science-and-advanced-data-analytics/en/introduction" target="_blank">Master Computer Science</a></li>
+<a href="http://www.mastersinleiden.nl/programmes/computer-science-and-advanced-data-analytics/en/introduction" target="_blank"> </a>
+<li><a href="http://www.mastersinleiden.nl/programmes/bioinformatics/en/introduction" target="_blank">Bioinformatica</a></li>
+<li><a href="http://www.mastersinleiden.nl/programmes/ict-in-business/" target="_blank">Master ICT in Business</a></li>
+<li><a href="http://www.mastersinleiden.nl/programmes/media-technology/" target="_blank">Master Media Technology</a></li>
+<li><a href="http://www.science.leidenuniv.nl/index.php/english/graduateschool" target="_blank">Graduate School</a></li>
+</ul><h4>Onderzoeksprogramma's</h4>
+<ul><li><a href="http://liacs.leidenuniv.nl/onderzoek/algorithms-and-software-technology">Algorithms and Software Technology (AST)</a></li>
+<li><a href="http://liacs.leidenuniv.nl/onderzoek/computer-systems-imagery-and-media/">Computer Systems, Imagery &amp; media (CSI)</a></li>
+</ul>
+					</div>
+					
+										
+				
+				<div id="content" class="HomePage">
+				
+					<div class="typography">
+										
+						
+	<h2><img class="left" src="assets/Images/_resampled/resizedimage8383-snelliusingang.jpg" width="83" height="83" alt="" title=""/>Introductie</h2>
+<p style="text-align: justify;">Het Leiden Institute of Advanced Computer Science (LIACS) is één van de instituten van de Faculteit Wiskunde &amp; Natuur wetenschap­pen. Het instituut is verantwoor­delijk voor onderzoek en onderwijs op het gebied van informatica aan de Universiteit Leiden.</p>
+<p style="text-align: left;"><strong>Deze website geeft informatie voor <em>huidige</em> medewerkers en studenten. </strong></p>
+<p style="text-align: justify;">Zie de <a href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica" target="_blank">universitaire LIACS-website</a> voor informatie voor studiekiezers en externen.</p>
+
+<div class="hr"></div>
+
+	<div id="HomePageNews">
+	
+		
+			<div class="HomePageNewsItem">		
+				
+					<div class="HomePageNewsItemPhoto">						
+					<a target="_blank" href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica"><img src="/assets/Uploads/_resampled/SetRatioSize83120-zegel.png" alt="zegel" /></a>
+					</div>
+				
+				<div class="HomePageNewsItemText">
+					<h3>Nieuwe universitaire website</h3>
+					De universiteit heeft een nieuwe website gelanceerd met informatie voor studiekiezers en externen: universiteitleiden.nl. De huidige website liacs.leidenuniv.nl wordt in stappen gemigreerd, en gaat uiteindelijk alleen nog informatie voor eigen medewerkers en studenten bevatten. Het Nieuws, de Agenda, Onderzoekspagina's, Profielpagina's en de Contactinformatie kunnen al op de nieuwe website worden gevonden.
+					<br /><div class="readMore"><img src="liacs/images/pijl.gif" alt="&gt;" /> <a target="_blank" href="https://www.universiteitleiden.nl/wiskunde-en-natuurwetenschappen/informatica">Lees meer </a></div>
+				</div>
+			</div>			
+			<div class="HomePageNewsItemCloser"></div>					
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+	</div>
+
+
+
+
+
+											
+					</div>
+				</div>
+				
+				<div id="finisher">
+					Last edited on 22/01/2016 8:33pm
+				</div>
+			</div>
+		
+			<div id="footer">Universiteit Leiden. Bij ons leer je de wereld kennen</div>
+		</div>
+		
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-15279959-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+	</body>
+</html>
